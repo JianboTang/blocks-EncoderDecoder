@@ -1,0 +1,2 @@
+root_path=/home/tangjianbo/git/blocks-EncoderDecoder
+export PYTHONPATH=$PYTHONPATH:$root_path
